@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  overflow-x: hidden;
+}
+
+/* Component or stylesheet */
+.custom-scrollbar::-webkit-scrollbar {
+  height: 10px;
+  width: 1px;
+}
+
+/* Track */
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: #888;
+  border-radius: 5px;
+}
+
+/* Handle */
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  width: 6px;
+  background: #000;
+  border-radius: 5px;
+}
+
+/* Handle on hover */
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: #8789fe;
+}

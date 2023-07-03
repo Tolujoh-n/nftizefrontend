@@ -1,0 +1,40 @@
+{
+    "networks": [
+        {
+            "nameOfNetwork": "Fantom Opera Mainnet",
+            "RPC_URL": "https://rpc.fantom.network",
+            "chainId": "250",
+            "marketplace_Address": "0x546Ec06222D237c442346a173A5e9C7D33094E07",
+            "tom_address": "0xd3a3f1033fbbc5405ee49e6b71380cab73468306",
+            "escrow_address": "0xffb620b62cb9f0f8a05a3ed44c71adbe48d6ae04",
+            "faucet_token_address": "0x049d68029688eAbF473097a2fC38ef61633A3C7A"
+        },
+        {
+            "nameOfNetwork": "Fantom testnet",
+            "RPC_URL": "https://rpc.testnet.fantom.network/",
+            "chainId": "4002",
+            "marketplace_Address": "0xdB27649217D62e7e5e514823fed421CA1341A37B",
+            "tom_address": "0xb822b222e2a4796d43f17874fb90ca19bd7bbb14",
+            "escrow_address": "0xf6a7b846ad200737a1543d94de8a8a82c392183f",
+            "faucet_token_address": "0xfafedb041c0dd4fa2dc0d87a6b0979ee6fa7af5f"
+        },
+        {
+            "nameOfNetwork": "default",
+            "RPC_URL": "https://rpc.testnet.fantom.network/",
+            "chainId": "0",
+            "marketplace_Address": "0xdB27649217D62e7e5e514823fed421CA1341A37B",
+            "tom_address": "0xb822b222e2a4796d43f17874fb90ca19bd7bbb14",
+            "escrow_address": "0xf6a7b846ad200737a1543d94de8a8a82c392183f",
+            "faucet_token_address": "0xfafedb041c0dd4fa2dc0d87a6b0979ee6fa7af5f"
+        },
+        {
+            "nameOfNetwork": "default",
+            "RPC_URL": "https://rpc.testnet.fantom.network/",
+            "chainId": "Undefined",
+            "marketplace_Address": "0xA9729e8D472345B02eB1C61DD86f692A6EA84fF8",
+            "tom_address": "0xf4301508f1ad133486a96af29b401bd0bae2fff6",
+            "escrow_address": "0xd97fd145689ce4bfbad40c1af2473b5a338a329f",
+            "faucet_token_address": "0xfafedb041c0dd4fa2dc0d87a6b0979ee6fa7af5f"
+        }
+    ]
+}

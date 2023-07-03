@@ -1,0 +1,35 @@
+{
+  "transactions": [
+    {
+      "hash": "0x758c29f024af829f7e762949850172a8003f9b7065d7aa20860c4cb12beb7547",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0xfaFedb041c0DD4fA2Dc0d87a6B0979Ee6FA7af5F",
+      "function": null,
+      "arguments": null,
+      "rpc": "https://rpc.testnet.fantom.network/",
+      "transaction": {
+        "type": "0x00",
+        "from": "0xfd7059cf48ef2417a1b6eeac9a77b6ca2d94a34e",
+        "to": "0xfafedb041c0dd4fa2dc0d87a6b0979ee6fa7af5f",
+        "gas": "0xfa8f",
+        "value": "0x0",
+        "data": "0x095ea7b3000000000000000000000000d97fd145689ce4bfbad40c1af2473b5a338a329f0000000000000000000000000000000000000000000000056bc75e2d63100000",
+        "nonce": "0x3b"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    }
+  ],
+  "receipts": [],
+  "libraries": [],
+  "pending": [
+    "0x758c29f024af829f7e762949850172a8003f9b7065d7aa20860c4cb12beb7547"
+  ],
+  "path": "/home/maroutis/NFTizeMarket/contracts/broadcast/ExecuteTransaction.s.sol/4002/run-latest.json",
+  "returns": {},
+  "timestamp": 1687706515,
+  "chain": 4002,
+  "multi": false,
+  "commit": "e1e55fc"
+}

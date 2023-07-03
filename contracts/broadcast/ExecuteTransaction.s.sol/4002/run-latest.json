@@ -1,0 +1,66 @@
+{
+  "transactions": [
+    {
+      "hash": "0x758c29f024af829f7e762949850172a8003f9b7065d7aa20860c4cb12beb7547",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0xfaFedb041c0DD4fA2Dc0d87a6B0979Ee6FA7af5F",
+      "function": null,
+      "arguments": null,
+      "rpc": "https://rpc.testnet.fantom.network/",
+      "transaction": {
+        "type": "0x00",
+        "from": "0xfd7059cf48ef2417a1b6eeac9a77b6ca2d94a34e",
+        "to": "0xfafedb041c0dd4fa2dc0d87a6b0979ee6fa7af5f",
+        "gas": "0xfa8f",
+        "value": "0x0",
+        "data": "0x095ea7b3000000000000000000000000d97fd145689ce4bfbad40c1af2473b5a338a329f0000000000000000000000000000000000000000000000056bc75e2d63100000",
+        "nonce": "0x3b"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    }
+  ],
+  "receipts": [
+    {
+      "transactionHash": "0x758c29f024af829f7e762949850172a8003f9b7065d7aa20860c4cb12beb7547",
+      "transactionIndex": "0x0",
+      "blockHash": "0x00004dad00001731ade73f5d908630a17d2eba35caed6226707652178b85f5bb",
+      "blockNumber": "0x1063558",
+      "from": "0xfD7059Cf48Ef2417a1b6Eeac9A77b6CA2D94A34e",
+      "to": "0xfaFedb041c0DD4fA2Dc0d87a6B0979Ee6FA7af5F",
+      "cumulativeGasUsed": "0xbc51",
+      "gasUsed": "0xbc51",
+      "contractAddress": null,
+      "logs": [
+        {
+          "address": "0xfaFedb041c0DD4fA2Dc0d87a6B0979Ee6FA7af5F",
+          "topics": [
+            "0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925",
+            "0x000000000000000000000000fd7059cf48ef2417a1b6eeac9a77b6ca2d94a34e",
+            "0x000000000000000000000000d97fd145689ce4bfbad40c1af2473b5a338a329f"
+          ],
+          "data": "0x0000000000000000000000000000000000000000000000056bc75e2d63100000",
+          "blockHash": "0x00004dad00001731ade73f5d908630a17d2eba35caed6226707652178b85f5bb",
+          "blockNumber": "0x1063558",
+          "transactionHash": "0x758c29f024af829f7e762949850172a8003f9b7065d7aa20860c4cb12beb7547",
+          "transactionIndex": "0x0",
+          "logIndex": "0x0",
+          "removed": false
+        }
+      ],
+      "status": "0x1",
+      "logsBloom": "0x00000000000000000000000000000000000080000000000000004000000000000000000000000000000000000000000000000000000000000000010000200000000000000000200000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000200001000000000000000000000000200000000000020000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000800000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000",
+      "type": "0x0",
+      "effectiveGasPrice": "0x3d432aa0"
+    }
+  ],
+  "libraries": [],
+  "pending": [],
+  "path": "/home/maroutis/NFTizeMarket/contracts/broadcast/ExecuteTransaction.s.sol/4002/run-latest.json",
+  "returns": {},
+  "timestamp": 1687706522,
+  "chain": 4002,
+  "multi": false,
+  "commit": "e1e55fc"
+}

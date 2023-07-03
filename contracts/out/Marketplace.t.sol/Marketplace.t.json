@@ -1,0 +1,21 @@
+{
+  "abi": [],
+  "bytecode": {
+    "object": "0x",
+    "linkReferences": {}
+  },
+  "deployedBytecode": {
+    "object": "0x",
+    "linkReferences": {}
+  },
+  "ast": {
+    "absolutePath": "test/Marketplace.t.sol",
+    "id": 7199,
+    "exportedSymbols": {},
+    "nodeType": "SourceUnit",
+    "src": "2315:0:27",
+    "nodes": [],
+    "license": "UNLICENSED"
+  },
+  "id": 27
+}

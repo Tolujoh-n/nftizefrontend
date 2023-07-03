@@ -1,0 +1,14 @@
+{
+    "networks": [
+        {
+            "nameOfNetwork": "Fantom Opera Mainnet",
+            "RPC_URL": "",
+            "chainId": "250"
+        },
+        {
+            "nameOfNetwork": "Fantom testnet",
+            "RPC_URL": "https://rpc.testnet.fantom.network/",
+            "chainId": "4002"
+        }
+    ]
+}
