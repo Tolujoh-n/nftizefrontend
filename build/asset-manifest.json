@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.029856a9.css",
+    "main.js": "/static/js/main.d83ff599.js",
+    "static/js/787.6cd8463e.chunk.js": "/static/js/787.6cd8463e.chunk.js",
+    "static/media/Tom-cardspng.png": "/static/media/Tom-cardspng.8451a2fdd81edfae2139.png",
+    "static/media/Coin-No-BG.png": "/static/media/Coin-No-BG.1423e848e5a59f5adf4a.png",
+    "static/media/logo.png": "/static/media/logo.6a193f9d751d2f6dbe38.png",
+    "static/media/Coin-bg.png": "/static/media/Coin-bg.aa57779a918673b41661.png",
+    "static/media/nftize-logo.png": "/static/media/nftize-logo.740b2cdb4b2c0642fff7.png",
+    "static/media/tire1.png": "/static/media/tire1.37486d25d5c25a6ed673.png",
+    "static/media/hero.png": "/static/media/hero.56ae253e80bc2a01e8f7.png",
+    "static/media/linked-in.svg": "/static/media/linked-in.ed1485c1db5846f6e8359ab1f5b7b8ae.svg",
+    "static/media/twitter.svg": "/static/media/twitter.40ba187feaa105be6561fd5923b5cd7d.svg",
+    "index.html": "/index.html",
+    "static/media/face-book.svg": "/static/media/face-book.75d9b9d941eac0f383c1576c297f5945.svg",
+    "static/media/verticalBar.svg": "/static/media/verticalBar.e27e8b60ada4fec536179e9caee6a7f4.svg",
+    "static/media/bracket.svg": "/static/media/bracket.17113e7b35e3093a42b25508d0690bb3.svg",
+    "main.029856a9.css.map": "/static/css/main.029856a9.css.map",
+    "main.d83ff599.js.map": "/static/js/main.d83ff599.js.map",
+    "787.6cd8463e.chunk.js.map": "/static/js/787.6cd8463e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.029856a9.css",
+    "static/js/main.d83ff599.js"
+  ]
+}
